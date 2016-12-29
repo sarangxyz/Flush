@@ -7,6 +7,8 @@ It clears following caches on Windows systems:
         - Disk Caches, does not accounts for SSD/NVMe yet
         - Various Ram Memory caches (see Rammap tool for details)
 
+Note: it requires Admin privileges for execution
+
 ----------------------------------------------------------------------------------------------
 Flush FileCache WorkingSet : ok
 Empty working sets : ok
