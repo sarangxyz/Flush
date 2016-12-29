@@ -9,6 +9,9 @@ It clears following caches on Windows systems:
 
 Note: it requires Admin privileges for execution
 
+More information about RAM caches can be found here:
+http://www.microsoft.com/whdc/system/hwdesign/MemSizingWin7.mspx
+
 ----------------------------------------------------------------------------------------------
 Flush FileCache WorkingSet : ok
 Empty working sets : ok
