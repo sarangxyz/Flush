@@ -13,6 +13,9 @@ More information about RAM caches can be found here:
 http://www.microsoft.com/whdc/system/hwdesign/MemSizingWin7.mspx
 
 ----------------------------------------------------------------------------------------------
+Output:
+
+```
 Flush FileCache WorkingSet : ok
 Empty working sets : ok
 Flushing Modified Lists : ok
@@ -24,4 +27,4 @@ Flushing caches for disk: C:\
 Flushing caches for disk: D:\
 Flushing caches for disk: F:\
 Flushing caches for disk: G:\
-
+```
