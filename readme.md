@@ -1,7 +1,7 @@
 
 A handy utility to purge all caches on system
 Author: Sarang.Baheti, extended disk-flush utility created by <vitillo>
-source repository: https://www.github.com/sarangbaheti/flush
+source repository: https://www.github.com/angeleno/flush
 
 It clears following caches on Windows systems:
         - Disk Caches, does not accounts for SSD/NVMe yet
@@ -18,7 +18,7 @@ Output:
 ```
 A handy utility to purge all caches on system
 Author: Sarang.Baheti, extended disk-flush utility created by <vitillo>
-source repository: https://www.github.com/sarangbaheti/flush
+source repository: https://www.github.com/angeleno/flush
 
 It clears following caches on Windows systems:
         - Disk Caches, does not accounts for SSD/NVMe yet
