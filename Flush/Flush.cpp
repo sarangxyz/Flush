@@ -163,7 +163,7 @@ static void printInfo()
 	std::wcout << std::endl;
 	std::wcout << L"A handy utility to purge all caches on system" << std::endl;
 	std::wcout << L"Author: Sarang.Baheti, extended disk-flush utility created by <vitillo>" << std::endl;
-	std::wcout << L"source repository: https://www.github.com/angeleno/flush" << std::endl;
+	std::wcout << L"source repository: https://www.github.com/sarangxyz/flush" << std::endl;
 	std::wcout << std::endl;
 	std::wcout << L"It clears following caches on Windows systems:" << std::endl;
 	std::wcout << L"\t- Disk Caches, does not accounts for SSD/NVMe yet" << std::endl;
